@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fab995
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Web development
+- 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me fabriziocompagno995@gmail.com
 
